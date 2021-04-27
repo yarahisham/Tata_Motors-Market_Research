@@ -12,7 +12,7 @@ You are leading the product team at TataMotors. The company is recently consider
   - Prepare research instrument.
   - Data collection.
   - Analyze the data.
-  - Resutlts.
+  - Results.
 
 ## Knowledge Officer Robric
 <p align="center">
